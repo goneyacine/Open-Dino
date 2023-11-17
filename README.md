@@ -4,7 +4,7 @@ Open Dino is an AI based game where you controll your chracter by opening or clo
 ## Tools
   ### AI
   for the ai I've used :
-   Pyton
+   Python
    ,Opencv
    ,Mediapipe
   & for the game I've used Unity and C#
